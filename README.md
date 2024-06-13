@@ -1,1 +1,1 @@
-# Temporal repo for hyperpo
+# Temporary repo for hyperpo distribution
